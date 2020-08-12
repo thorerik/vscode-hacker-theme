@@ -6,12 +6,12 @@
         "name": "Thor Erik Lie",
         "email": "thor@thorerik.com"
     },
-    "version": "1.0.6",
+    "version": "1.1.0",
     "scripts": {
         "deploy": "vsce publish"
     },
     "engines": {
-        "vscode": "^1.47.0"
+        "vscode": "*"
     },
     "categories": [
         "Themes"

@@ -1,5 +1,9 @@
 # Change Log
 
+## v1.1.0
+
+- Support all versions of VSC
+
 ## v1.0.3-6
 
 - Nothing, setting up autopublish
