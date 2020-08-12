@@ -1,5 +1,9 @@
 # Change Log
 
+## v1.0.3-6
+
+- Nothing, setting up autopublish
+
 ## v1.0.2
 
 - Fixed background on unfocused tabs
