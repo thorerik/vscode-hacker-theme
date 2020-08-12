@@ -416,7 +416,7 @@
 		"tab.inactiveBackground": "#000000",
 		"tab.inactiveForeground": "#009900",
 		"tab.inactiveModifiedBorder": "#00ff00",
-		"tab.unfocusedActiveBackground": "#00ff00",
+		"tab.unfocusedActiveBackground": "#000000",
 		"tab.unfocusedActiveBorder": "#00ff00",
 		"tab.unfocusedActiveBorderTop": "#00ff00",
 		"tab.unfocusedActiveForeground": "#00ff00",
