@@ -24,6 +24,8 @@ steps:
 - bash: |
     echo ">>> Install tools"
     npm install -g vsce
+    echo ">>> Install packages"
+    npm ci
     echo ">>> Publish extension"
     npm run deploy
   displayName: Publish extension
