@@ -6,7 +6,7 @@
         "name": "Thor Erik Lie",
         "email": "thor@thorerik.com"
     },
-    "version": "1.0.2",
+    "version": "1.0.4",
     "scripts": {
         "deploy": "vsce publish"
     },
@@ -35,5 +35,8 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/thorerik/vscode-hacker-theme"
+    },
+    "dependencies": {
+        "vsce": "^1.78.0"
     }
 }
