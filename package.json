@@ -7,6 +7,9 @@
         "email": "thor@thorerik.com"
     },
     "version": "1.0.2",
+    "scripts": {
+        "deploy": "vsce publish"
+    },
     "engines": {
         "vscode": "^1.47.0"
     },
