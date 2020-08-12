@@ -22,6 +22,8 @@ steps:
   displayName: 'Install Node.js'
 
 - bash: |
+    echo ">>> Install tools"
+    npm install -g vsce
     echo ">>> Publish extension"
     npm run deploy
   displayName: Publish extension
