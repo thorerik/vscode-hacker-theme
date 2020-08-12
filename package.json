@@ -24,9 +24,13 @@
     },
     "galleryBanner": {
         "theme": "dark",
-        "color": "#cccccc"
+        "color": "#505050"
     },
-    "icon": "/media/icon.png",
+    "icon": "media/icon.png",
     "license": "MIT",
-    "publisher": "thorerik"
+    "publisher": "thorerik",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/thorerik/vscode-hacker-theme"
+    }
 }
