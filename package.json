@@ -6,7 +6,7 @@
         "name": "Thor Erik Lie",
         "email": "thor@thorerik.com"
     },
-    "version": "1.0.4",
+    "version": "1.0.6",
     "scripts": {
         "deploy": "vsce publish"
     },
