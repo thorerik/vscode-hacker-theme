@@ -6,6 +6,8 @@ The perfect theme for writing IP tracers in Visual Basic and reverse-proxying a 
 ## Installation
 
 ### Marketplace
+[View on Marketplace](https://marketplace.visualstudio.com/items?itemName=thorerik.hacker-theme)
+
 `ext install thorerik.hacker-theme`
 
 ### CLI
