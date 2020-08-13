@@ -1,5 +1,13 @@
 # Change Log
 
+## v1.1.1
+
+- Add License declarattion
+
+## v1.1.0
+
+- Lable theme compatible with all versions
+
 ## v1.0.3-6
 
 - Nothing, setting up autopublish
