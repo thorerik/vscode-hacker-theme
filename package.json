@@ -19,9 +19,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "Hacker Theme",
+                "label": "Hacker Theme Monochrome",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Hacker Theme-color-theme.json"
+                "path": "./themes/Hacker-Theme-Monochrome-color-theme.json"
+            },
+            {
+                "label": "Hacker Theme Colorized",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Hacker-Theme-Colorkeywords-color-theme.json"
             }
         ]
     },
