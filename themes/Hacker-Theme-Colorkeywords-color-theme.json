@@ -51,27 +51,43 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#00ffb3"
+			}
+		},
+		{
+			"name": "Control Operators",
+			"scope": [
+				"keyword.control"
+			],
+			"settings": {
+				"foreground": "#FF0000"
 			}
 		},
 		{
 			"name": "Operator, Misc",
 			"scope": [
-				"keyword.control",
 				"constant.other.color",
-				"punctuation",
 				"meta.tag",
+				"punctuation",
 				"punctuation.definition.tag",
 				"punctuation.separator.inheritance.php",
 				"punctuation.definition.tag.html",
 				"punctuation.definition.tag.begin.html",
 				"punctuation.definition.tag.end.html",
-				"punctuation.section.embedded",
 				"keyword.other.template",
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#00ff00"
+				"foreground": "#ffffff"
+			}
+		},
+		{
+			"name": "test",
+			"scope": [
+				"punctuation.section.embedded"
+			],
+			"settings": {
+				"foreground": "#0011ff"
 			}
 		},
 		{
@@ -82,7 +98,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#00ff00"
+				"foreground": "#00ffdd"
 			}
 		},
 		{
@@ -145,7 +161,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#00ff00"
+				"foreground": "#ffa600"
 			}
 		},
 		{
@@ -161,7 +177,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#00ff00"
+				"foreground": "#00e1ff"
 			}
 		},
 		{
@@ -170,7 +186,7 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#00ff00"
+				"foreground": "#ffee00"
 			}
 		},
 		{
@@ -184,7 +200,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#00ff00"
+				"foreground": "#0059ff"
 			}
 		},
 		{
@@ -215,7 +231,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#00ff00"
+				"foreground": "#00b7ff"
 			}
 		},
 		{
@@ -245,7 +261,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#00ff00"
+				"foreground": "#00d9ff"
 			}
 		},
 		{
@@ -254,7 +270,7 @@
 				"entity.other.attribute-name.class"
 			],
 			"settings": {
-				"foreground": "#00ff00"
+				"foreground": "#00d9ff"
 			}
 		},
 		{
@@ -263,7 +279,7 @@
 				"source.sass keyword.control"
 			],
 			"settings": {
-				"foreground": "#00ff00"
+				"foreground": "#00d9ff"
 			}
 		},
 		{
