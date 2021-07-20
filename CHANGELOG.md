@@ -1,5 +1,9 @@
 # Change Log
 
+## v2.0.0
+- Renamed the original to "Monochrome"
+- Added colorized version
+
 ## v1.1.1
 
 - Add License declarattion
