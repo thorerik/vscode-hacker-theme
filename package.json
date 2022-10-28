@@ -6,7 +6,7 @@
         "name": "Thor Erik Lie",
         "email": "thor@thorerik.com"
     },
-    "version": "2.0.0",
+    "version": "3.0.0",
     "scripts": {
         "deploy": "vsce publish"
     },
@@ -27,6 +27,11 @@
                 "label": "Hacker Theme Colorized",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Hacker-Theme-Colorkeywords-color-theme.json"
+            },
+            {
+                "label": "Red Hacker Theme Colorized",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Red-Hacker-Theme-Colorkeywords-color-theme.json"
             }
         ]
     },
