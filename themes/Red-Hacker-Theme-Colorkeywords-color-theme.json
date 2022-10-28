@@ -165,6 +165,16 @@
 			}
 		},
 		{
+			"name": "Type",
+			"scope": [
+				"entity.name.class",
+				"entity.name.type",
+			],
+			"settings": {
+				"foreground": "#ff00d4"
+			}
+		},
+		{
 			"name": "Class, Support",
 			"scope": [
 				"entity.name",
@@ -173,8 +183,8 @@
 				"support.orther.namespace.use.php",
 				"meta.use.php",
 				"support.other.namespace.php",
-				"markup.changed.git_gutter",
-				"support.type.sys-types"
+				"support.type.sys-types",
+				"markup.changed.git_gutter"
 			],
 			"settings": {
 				"foreground": "#00e1ff"
